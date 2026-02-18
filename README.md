@@ -7,6 +7,7 @@
 🪩 I am a Web Dev <br>
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
+
 - 🔭 I'm currently working on **Ananta Ai Chatbot ( A Wordpress Plugin )**
 
 - 🌱 I'm currently learning **Python and JavaScript**
